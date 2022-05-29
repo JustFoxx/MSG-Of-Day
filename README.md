@@ -1,2 +1,4 @@
 # MSG-Of-Day
-Simple website that shows message of day in multiple languages
+> Simple website that shows message of day in multiple languages
+
+## How does it work?
