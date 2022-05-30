@@ -3,7 +3,7 @@
 
 ## Done languages
 
-- Golang 🚧
+- Golang ✅
 
 ## How does it work?
 1. Run app to listen on 80 port
